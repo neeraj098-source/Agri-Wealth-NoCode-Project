@@ -12,7 +12,8 @@ An AI-powered platform for Indian farmers that transforms agricultural waste int
 * https://ari-wealth-farmer-ap-kufm.glide.page]
 
 ### **Video Demo**
-* **Watch the Demo:** [Yahan apne YouTube video demo ka link daalein]
+* **Watch the Demo:** [https://youtu.be/ujxxVAFdlro
+* https://youtu.be/ujxxVAFdlro]
 
 ---
 
